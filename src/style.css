@@ -1,0 +1,12 @@
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color:aliceblue;
+  border: 2px solid blue;
+  border-radius: 50%;
+  background-color: rgba(74, 98, 253, 0.651);
+  width: 100px;
+  height: 100px;
+}
